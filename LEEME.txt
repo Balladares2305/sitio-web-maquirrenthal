@@ -1,0 +1,18 @@
+CAMBIA LAS FOTOS DE LA PAGINA
+
+Guarda tus fotos JPG en esta carpeta con estos nombres exactos:
+
+- portada.jpg: foto principal de maquinaria.
+- excavadora.jpg: tarjeta de excavacion y movimiento de tierra.
+- elevacion.jpg: tarjeta de elevacion y trabajo en altura.
+- apoyo.jpg: tarjeta de equipos de apoyo.
+
+Al reemplazar una foto, conserva el nombre del archivo y recarga la pagina.
+Si aun no agregas una foto, se mostrara la ilustracion original.
+
+Consejos:
+- Usa fotos JPG y evita nombres con espacios o tildes.
+- Para la portada, usa una foto horizontal y de buena resolucion.
+- Las fotos de las tarjetas se recortan automaticamente para ajustarse al espacio.
+- Al publicar el sitio, copia tambien esta carpeta con la pagina.
+/home/aarondaniel/Imágenes/IMAGEN MAQUI/torre de iluminacion a paneles .jpeg
